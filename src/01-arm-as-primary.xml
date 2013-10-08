@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature>
+    <name>Arm as primary architecture</name>
+    <url>http://fedoraproject.org/wiki/Changes/ARM_as_Primary</url>
+    <image>Not yet. A raspberry pi maybe?</image>
+    <text> 
+        From Fedora 20, support for ARM devices gets better, with Fedora building all it's packages for the ARM architecture. ARM systems use very little power, for instance, the OLPC XO 1.75 and XO-4 devices. ARM devices are quickly moving into mainstream use since they're relatively cheap.
+    </text>
+
+    <comment>
+        On second thought, this appears to be more a hidden change that will not really affect users much.
+    </comment>
+</feature>
+
