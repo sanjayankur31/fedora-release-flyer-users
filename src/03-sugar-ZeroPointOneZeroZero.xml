@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature>
+    <name>Sugar 0.100</name>
+    <url>http://fedoraproject.org/wiki/Changes/Sugar-0.100</url>
+    <image>Find an icon to use</image>
+    <text> 
+        The Sugar Learning Platform is specially designed for children. It brings a set of software that's aimed at educating young minds. Fedora 20 brings the newest version of the Sugar Platform to your kids!
+    </text>
+    <comment>
+        Where's the info on this feature? I can't find a page on the sugar wiki or anything. Mail the owner?
+
+        Note: Sugar 0.99 is in Fedora 20 Beta TC2. Keep an eye on this.
+    </comment>
+</feature>
+
