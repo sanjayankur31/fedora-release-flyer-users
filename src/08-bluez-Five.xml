@@ -3,7 +3,7 @@
     <name>Bluez 5</name>
     <url>http://fedoraproject.org/wiki/Changes/Bluez5</url>
     <image>Bluez 5 icon</image>
-    <text> 
+    <text lang="English"> 
         The Bluez project provides the official Bluetooth stack for Linux. The newest release, Bluez 5, brings various improvements, all in all, a better Bluetooth experience. All the major applications, and desktops have already been ported to Bluez 5. 
     </text>
     <comment>

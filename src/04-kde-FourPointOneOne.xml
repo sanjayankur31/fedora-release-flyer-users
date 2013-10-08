@@ -3,7 +3,7 @@
     <name>KDE 4.11</name>
     <url>http://fedoraproject.org/wiki/Changes/KDE411</url>
     <image>KDE icon</image>
-    <text> 
+    <text lang="English"> 
         Fedora 20 brings to you the latest version of the KDE plasma desktop, a popular, feature rich desktop environment. The 4.11 release brings various performance improvements: updates to the task bar, sound mixer (KMix), the notification system, monitor configurations; are ones to look out for. Grab the Fedora KDE spin and take a look!
     </text>
     <comment>

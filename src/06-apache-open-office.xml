@@ -3,7 +3,7 @@
     <name>Apache Open Office</name>
     <url>http://fedoraproject.org/wiki/Changes/ApacheOpenOffice</url>
     <image>Apache Open Office icon</image>
-    <text> 
+    <text lang="English"> 
         Fedora 20 includes Apache OpenOffice (formerly OpenOffice.org), a popular free and open-source office software suite for word processing, spreadsheets, presentations, graphics, databases and more. Apache OpenOffice is available in many languages and it is now developed by the Apache Software Foundation. LibreOffice, a fork of OpenOffice.org, remains the default office suite in Fedora. 
     </text>
     <comment>

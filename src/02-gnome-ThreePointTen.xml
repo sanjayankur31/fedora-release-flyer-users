@@ -3,7 +3,7 @@
     <name>GNOME 3.10<name>
     <url>http://fedoraproject.org/wiki/Changes/Gnome3.10</url>
     <image>Use Gnome icon here</image>
-    <text> 
+    <text lang="English"> 
         Fedora 20 brings the latest version of the new GNOME 3 desktop interface to your system. The release, like the 3.8 release, brings more improvements and a bunch of new applications: Application installer, GNOME maps, GNOME photos, GNOME music, and the Bijiben note taker. The release continues GNOME 3's road towards a better integrated desktop environment. 
     </text>
     <comment>

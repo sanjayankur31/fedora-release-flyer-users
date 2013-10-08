@@ -3,7 +3,7 @@
     <name>My cool feature!</name>
     <url>http://fedoraproject.org/wiki/Changes/Enlightenment</url>
     <image>Enlightment icon</image>
-    <text> 
+    <text lang="English"> 
         With Fedora 20, you have yet another destkop environment to choose from: Enlightment. The latest version of Enlightment was released after seventeen years of development. Enlightment is functional, and yet, highly customizable. 
     </text>
     <comment>

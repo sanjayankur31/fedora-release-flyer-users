@@ -3,8 +3,11 @@
     <name>My cool feature!</name>
     <url>http://fedoraproject.org/wiki/Changes/SomethingSomething</url>
     <image>An icon/image to go into the flyer</image>
-    <text> 
+    <text lang="English"> 
         How this feature is mega fedora awesome!
+    </text>
+    <text lang="AnotherLanguage">
+        Mooooooooo
     </text>
     <comment>
         Fu bar!

@@ -3,7 +3,7 @@
     <name>Application Installer</name>
     <url>http://fedoraproject.org/wiki/Changes/AppInstaller</url>
     <image>Application installer icon</image>
-    <text> 
+    <text lang="English"> 
         Application installer is a new application that focuses on applications, rather than packages. The new program is quite like an application store, where it lets you surf through all the available applications before installing ones that you need. It's still under active development, but if you had trouble with the existing front ends being too package oriented, you should really try this one out.
     </text>
     <comment>
